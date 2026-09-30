@@ -10,7 +10,7 @@ Die Datei `index.html` kann direkt mit einem Webbrowser geöffnet werden.
 
 ## GitHub Pages
 
-Die URL wird nach der Einrichtung von GitHub Pages hier eingetragen.
+https://asimon-stack.github.io/ErsteProject/
 
 ## Lizenz
 
